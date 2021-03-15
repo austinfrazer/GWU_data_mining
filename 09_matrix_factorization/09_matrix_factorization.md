@@ -51,8 +51,14 @@ by Emmanuel J. Candes, Xiaodong Li, Yi Ma, and John Wright
 
 ***
 
-* [Factorization Machines](http://www.algo.uni-konstanz.de/members/rendle/pdf/Rendle2010FM.pdf)</br>
+* [Factorization Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.393.8529&rep=rep1&type=pdf)</br>
 by Steffen Rendle
 
 * [Near Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?](http://statweb.stanford.edu/~candes/papers/OptimalRecovery.pdf)</br>
 by Emmanuel Candes and Terence Tao
+
+***
+
+* [SAS random projections example](https://github.com/jphall663/enlighten-apply/tree/master/SAS_UE_Random_Projections)
+
+* [Quora answer regarding feature extraction](https://www.quora.com/How-do-you-attack-a-machine-learning-problem-with-a-large-number-of-features/answer/Patrick-Hall-4) 
